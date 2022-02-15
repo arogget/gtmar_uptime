@@ -5,10 +5,10 @@ repo: gtmar_uptime # The name of this repository
 sites:
   - name: Gtmar cloud
     url: https://cloud.gpschile.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Grafana
+    url: https://vis.ronkotech.com
+  - name: Process maker
+    url: http://bpm.ronkotech.com
 
 #assignees: 
 #  - arogget
